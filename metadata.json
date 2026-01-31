@@ -1,0 +1,8 @@
+{
+  "name": "Vista Café Member e-Coupon (New Version)",
+  "description": "A mobile web app for Vista Café's discount coupon system, allowing Vista Members to redeem coupons. The interface is optimized for embedding in a LINE Rich Menu and features a modern, minimal design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
